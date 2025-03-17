@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ciro</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="center">
-  [!LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciro-fernandez-610163269/)
 
-</p>
+[!LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciro-fernandez-610163269/)
+
 
 
 
