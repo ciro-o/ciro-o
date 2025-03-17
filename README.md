@@ -4,6 +4,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciro-fernandez-610163269/)
 
+<a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
+</a>
+
 
 
 
