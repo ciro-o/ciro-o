@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-> [!TIP]
+> [!Aviso]
 > Helpful advice for doing things better or more easily.
 
 <h3 align="left">Languages and Tools:</h3>
