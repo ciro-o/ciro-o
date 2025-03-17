@@ -4,9 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciro-fernandez-610163269/)
 
-<a href="https://www.linkedin.com/in/tuusuario/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-</a>
+<div style="border: 2px solid #0077B5; padding: 10px; border-radius: 10px; background-color: #f0f8ff; width: fit-content;">
+  <a href="https://www.linkedin.com/in/ciro-fernandez-610163269/" target="_blank" style="text-decoration: none;">
+    <h3 style="color: #0077B5; margin: 0;">🔗 Visita mi LinkedIn</h3>
+  </a>
+</div>
 
 
 
